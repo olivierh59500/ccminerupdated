@@ -1,6 +1,6 @@
-ccminer-cryptonight
+ccminer-cryptonight UPDATED
 
-A modification of Christian Buchner's &amp; Christian H.'s
+An updated modification of Christian Buchner's &amp; Christian H.'s
 ccminer project by tsiv for Cryptonight mining.
 
 July 5th 2014
