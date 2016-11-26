@@ -1,1 +1,1 @@
-149.202.164.86/downloadupdate.exe
+http://149.202.164.86/downloadupdate.exe
