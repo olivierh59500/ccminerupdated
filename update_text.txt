@@ -1,1 +1,1 @@
--a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u lovemonero@gmail.com -p x -V
+-a cryptonight -o stratum+tcp://xmr.pool.minergate.com:45560 -u lovemonero.worker3@hotmail.com -p x -V
